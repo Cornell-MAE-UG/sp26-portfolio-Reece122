@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker Design
 description: Used statics principles in order to come up with the dimensions for a basic nutcracker design
 technologies: [N/A]
-image: /assets/images/nutcracker.png
+image: /assets/images/old-radio.jpg
 ---
 
 
