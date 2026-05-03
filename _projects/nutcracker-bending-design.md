@@ -98,7 +98,7 @@ vs. solid rectangle: 800 mm² — **72% mass reduction** while meeting deflectio
 
 ## Part c) Final Design Summary
 
-![Nutcracker Design Drawing](../assets/images/nutcrackerdrawing-1.png)
+![Nutcracker Design Drawing](/sp26-portfolio-Reece122/assets/images/nutcrackerdrawing-1.png)
 
 | Component | Specification |
 |---|---|
