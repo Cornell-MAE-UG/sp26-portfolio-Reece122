@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker Bending Design
 ---
 
-# Automated Wutcracker Design — HW4 Update
+# Automated Nutcracker Design — HW4 Update
 
 ## Overview
 
