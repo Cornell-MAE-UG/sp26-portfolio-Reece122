@@ -57,7 +57,7 @@ The handle sees three forces:
 
 The nut force dominates. Using the standard simply supported beam formula with point load at position a, the location of maximum deflection is:
 
-$$x_{max} = \frac{a(2L + a)}{3(L + a)} = \frac{30(300 + 30)}{3(180)} = 18.3 \text{ mm from pivot}$$
+x_max = a(2L + a) / 3(L + a) = 30(330) / 3(180) = 18.3 mm from pivot
 
 **Maximum deflection occurs at approximately x = 18 mm from the pivot.**
 
@@ -69,11 +69,11 @@ $$x_{max} = \frac{a(2L + a)}{3(L + a)} = \frac{30(300 + 30)}{3(180)} = 18.3 \tex
 
 Using the point load deflection formula with F = 300 N, a = 0.03 m, L = 0.15 m, δ_max = 0.003 m:
 
-$$\delta = \frac{Fa^2(L-a)^2}{3EIL} \leq 0.003 \text{ m}$$
+δ = Fa²(L−a)² / 3EIL ≤ 0.003 m
 
-$$EI \geq \frac{300(0.03)^2(0.12)^2}{3(0.003)(0.15)} = 2880 \text{ N·m}^2$$
+EI ≥ 300(0.03)²(0.12)² / 3(0.003)(0.15) = 2880 N·m²
 
-$$I \geq \frac{2880}{69 \times 10^9} = 41,700 \text{ mm}^4$$
+I ≥ 2880 / (69 × 10⁹) = 41,700 mm⁴
 
 ### Material
 
@@ -89,7 +89,7 @@ $$I \geq \frac{2880}{69 \times 10^9} = 41,700 \text{ mm}^4$$
 | Outer height (h) | 40 mm |
 | Wall thickness (t) | 2 mm |
 
-$$I = \frac{bh^3}{12} - \frac{(b-2t)(h-2t)^3}{12} = \frac{20(40)^3}{12} - \frac{16(36)^3}{12} = 44,459 \text{ mm}^4 \geq 41,700 ✓$$
+I = (bh³/12) − ((b−2t)(h−2t)³/12) = (20×40³)/12 − (16×36³)/12 = 44,459 mm⁴ ≥ 41,700 ✓
 
 **Cross-section area:** 20×40 − 16×36 = **224 mm²**
 vs. solid rectangle: 800 mm² — **72% mass reduction** while meeting deflection limit.
